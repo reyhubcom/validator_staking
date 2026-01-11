@@ -23,7 +23,7 @@ keywords="Rico, Portfolio, Web Design, UI Design, Frontend Development, Creative
         <!-- Title - AnimatedText animation -->
         <h1 class="mb-4">
           <AnimatedText
-            content="Validar & Staking"
+            content="Hi, I'm Rico"
             delay={0.1}
             duration={0.5}
             stagger={0.08}
